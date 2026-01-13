@@ -37,7 +37,7 @@ O site é composto pelas seguintes páginas:
 
 ## 📁 Estrutura de Pastas
 
-```text
+
 Site_Botstrap/
 │
 ├── img/
